@@ -1,0 +1,132 @@
+/* SUPER SITE STYLES */
+body {
+  	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  	font-weight: 300;
+  	font-size: 1em;
+	color: #2b2b2b;
+}
+
+a {
+	text-decoration: none;
+  	color: #33b5e5;
+}
+
+a:hover {
+  	color: #0099cc;
+}
+
+ul li {
+  	display: inline;
+  	padding-right: 25px;
+}
+
+ul li:first-child {
+  	margin-left: -30px;
+}
+
+h1 {
+	font-family: "Georgia", "Times New Roman", serif;
+	font-weight: normal;
+	margin-bottom: 0px;
+	display: inline;
+}
+
+h2, h3, h4, h5, h6 {
+	  font-weight: normal;
+	  margin-bottom: 0px;
+	  display: inline;
+}
+
+input {
+  	width: 85px;
+  	margin-right: 2.5px;
+}
+
+header {
+  	overflow: hidden;
+  	width: inherit;
+  	height: 6.5%;
+  	margin-top: 30px;
+}
+
+footer {
+  	font-size: 12px;
+}
+
+
+/* CREATED STYLES */
+.container {
+  	margin: 0 auto;
+  	width: 800px;
+  	height: 1000px;
+  	overflow: hidden;
+}
+
+.content, footer {
+  	margin-left: 10px;
+  	margin-top: 0px;
+  	clear: both;
+}
+
+.left {
+  	float: left;
+  	width: 525px;
+  	margin-right: 25px;
+}
+
+.leftBody {
+  	float: left;
+  	width: 425px;
+  	margin-right: 25px;
+}
+
+.column.left {
+  	margin-top: -20px;
+}
+
+.right {
+  	float: left;
+  	width: 250px;
+}
+
+.column.right {
+  	text-align: center;
+}
+
+.login {
+  	margin-top: 26px;
+}
+
+.thread {
+  	font-size: 13px;
+}
+
+.push-right {
+	margin-left: 20px;
+}
+
+/* SPECIAL FONTS */
+.cat {
+	font-size: 1.25em;
+}
+
+.topic {
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.author {
+	font-size: .75em;
+	color: #757575;
+}
+
+.desc {
+	font-size: 1em;
+}
+
+.hrBody {
+	color: #cfcfcf;
+	background-color: #cfcfcf;
+	height:1px;
+	border:none;
+}
