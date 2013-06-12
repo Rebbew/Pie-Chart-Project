@@ -105,28 +105,4 @@ footer {
 	margin-left: 20px;
 }
 
-/* SPECIAL FONTS */
-.cat {
-	font-size: 1.25em;
-}
 
-.topic {
-	font-size: 1.1em;
-	font-weight: bold;
-}
-
-.author {
-	font-size: .75em;
-	color: #757575;
-}
-
-.desc {
-	font-size: 1em;
-}
-
-.hrBody {
-	color: #cfcfcf;
-	background-color: #cfcfcf;
-	height:1px;
-	border:none;
-}
